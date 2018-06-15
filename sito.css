@@ -1,0 +1,57 @@
+h1 {
+  color: blue;
+  font-family:"Helvetica";
+}
+
+
+#menu1 {
+  color: blue;
+  font-family:"Helvetica";
+  height: 100px;
+  width: 350px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+#menu1 a:hover {
+  border-bottom: 1px solid blue;
+  text-align: center;
+}
+
+
+#menu1 a {
+color: blue;
+display:block;
+text-decoration: none;
+text-align: center;
+margin-left: 0;
+}
+
+.margine1{
+  margin-top: 15px;
+}
+
+.centro {
+  position: absolute;
+  transform: translate(-50% ,-50%);
+  top: 50%;
+  left: 50%;
+}
+
+
+.titolo {
+  width: 350px;
+  height: 70px;
+  font-family:"Helvetica";
+  text-align: center;
+
+}
+
+.line{
+    border-bottom: 1px solid blue;
+}
+
+body {
+
+}
