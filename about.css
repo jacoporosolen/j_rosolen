@@ -79,8 +79,14 @@ h1{
 .mail:hover{
   border: 1px solid orange;
   border-radius: 50%;
+}
 
-
+.underbarra {
+  background-color: white;
+  width: 100vw;
+  height: 160px;
+  top: 0%;
+  z-index: 0;
 }
 
 body {
